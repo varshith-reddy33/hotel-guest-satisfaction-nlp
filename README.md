@@ -132,6 +132,3 @@ jupyter notebook
 
 Open `Hotel_Guest_Satisfaction_NLP.ipynb` and run the cells from beginning to end.
 
-## Project Scope
-
-This project was developed as part of the **M508 Big Data Analytics** module and demonstrates the application of NLP and machine learning techniques to large-scale customer review data.
