@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.venv/
+
+# Large datasets
+*.csv
+*.zip
+
+# Model files
+*.pkl
+*.joblib
+*.h5
+*.keras
+
+# OS files
+.DS_Store
+Thumbs.db
